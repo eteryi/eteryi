@@ -1,2 +1,1 @@
-ello !!
-my name is cross and im trying to learn java
+hi im cross, i try to code in java and kotlin, sometimes
