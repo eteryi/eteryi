@@ -1,6 +1,6 @@
-# Ello! I'm Cross
+  <h1 align="center">Hi! My name is Cross</h1>
 
-> A beginner on all of this mess.
+<p align="center">a rookie, for now.</p>
 
 ## Programming Languages
 I am currently learning how to use properly Java and Kotlin, but I also know a little bit about Python, JS and HTML.
