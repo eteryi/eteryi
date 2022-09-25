@@ -1,9 +1,9 @@
-  <h1 align="center">Hi! My name is Cross</h1>
+  <h1 align="center">Hallo! I'm Cross</h1>
 
-<p align="center">amateur.</p>
+<h5 align="center">amateur at best.</h5>
 
-## Programming Languages
-I am currently learning how to use properly Java and Kotlin, but I also know a little bit about Python, JS and HTML.
-### Current Projects
+<h2 align="center">Languages</h2>
+<p align="center">I'm currently learning Kotlin, also had a bit of experience with Java, Javascript and HTML/CSS before.</p>
 
-> Basically nothing.
+<h2 align="center"> Current Projects </h2>
+<h6 align="center"> quick, don't look here, i'm running out of ideas </h3>
