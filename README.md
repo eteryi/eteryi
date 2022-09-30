@@ -1,4 +1,4 @@
-  <h1 align="center">Hallo! I'm Cross</h1>
+  <h1 align="center">ello, i'm cross</h1>
 
 <h5 align="center">amateur at best.</h5>
 
