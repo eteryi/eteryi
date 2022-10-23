@@ -5,7 +5,12 @@
     <img src="https://skillicons.dev/icons?i=kotlin,java,js,vscode,idea,mongodb" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eteryi&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+</p>
 
-
-![eteryi's github stats](https://github-readme-stats.vercel.app/api?username=eteryi&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
-[![GitHub Streak](https://streak-stats.demolab.com?user=eteryi&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=eteryi&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D"/>
+  </a>
+</p>
