@@ -1,9 +1,11 @@
-  <h1 align="center">ello, i'm cross</h1>
+<h1 align="center">ello, i'm cross</h1>
 
-<h5 align="center">amateur at best.</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,js,vscode,idea,mongodb" />
+  </a>
+</p>
 
-<h2 align="center">Languages</h2>
-<p align="center">I'm currently learning Kotlin, also had a bit of experience with Java, Javascript and HTML/CSS before.</p>
 
-<h2 align="center"> Current Projects </h2>
-<h6 align="center"> quick, don't look here, i'm running out of ideas </h3>
+![eteryi's github stats](https://github-readme-stats.vercel.app/api?username=eteryi&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eteryi&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
