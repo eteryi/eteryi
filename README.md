@@ -4,12 +4,13 @@
 a beginner developer who has no idea what they're doing  
 *i mean, **sometimes** i do have, but i don't want to give myself that much credit*
 
-`Developer Myself = new Developer("Cross");`
+```java
+Developer Myself = new Developer("Cross");
 
-`while (true) {
+while (true) {
   Myself.procrastinate();
 }
-`
+```
 
 <p align="left">
   <a href="https://git.io/streak-stats">
