@@ -1,5 +1,6 @@
 
 # hey, i'm cross.
 
-developer, i think?
+a developer, i guess<br>
+
 java/kotlin/c++/c/python
