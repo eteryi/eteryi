@@ -19,7 +19,7 @@ java = ">=1.8"
 kotlin = "2.0.20"
 golang = ">=1.21"
 c = ">=99"
-cpp = "FUCK NOOOOO"
+cpp = ">=17"
 
 [dependencies]
 coffee = "1.0"
