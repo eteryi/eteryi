@@ -7,12 +7,6 @@
 name = "etery"
 pronouns = "he/they"
 languages = [ "en/us", "pt/br" ]
-learning = [
-  "Game Development",
-  "Backend Development",
-  "Graphics Development",
-  "Cybersecurity",
-]
 
 [languages]
 java = ">=1.8"
